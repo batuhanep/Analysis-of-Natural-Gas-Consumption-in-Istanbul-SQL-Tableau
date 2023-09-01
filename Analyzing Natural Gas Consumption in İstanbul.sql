@@ -1,9 +1,9 @@
---This project aims to obtain information about natural gas consumption in ›stanbul using datasets of natural gas price per cubic meter and natural gas consumption per cubic meter.
+--This project aims to obtain information about natural gas consumption in √ùstanbul using datasets of natural gas price per cubic meter and natural gas consumption per cubic meter.
 
 --Some topics expected to be covered in this project:
 --Average, highest and total natural gas consumption(m3) by district,month and year,
 --Relationship between natural gas consumption(m3) and natural gas price(m3),
---Ranking of natural gas consumption among ›stanbul districts
+--Ranking of natural gas consumption among √ùstanbul districts
 
 
 --About the datasets:
@@ -131,4 +131,7 @@ Order By 2 desc
 
 Select *
 FROM NaturalGasConsumptionByDistrict
+
+--Full article: https://medium.com/@ozdemirbatu.80/natural-gas-consumption-in-i%CC%87stanbul-analyzing-ms-sql-and-visualizing-tableau-natural-gas-426299163229
+--Data vizualization: https://public.tableau.com/app/profile/batuhan.zdemir/viz/NaturalGasConsumptioninstanbul/Dashboard1
 
